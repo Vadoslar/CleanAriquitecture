@@ -1,0 +1,14 @@
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\bin\Debug\net8.0\StructurePrograming.exe
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\bin\Debug\net8.0\StructurePrograming.deps.json
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\bin\Debug\net8.0\StructurePrograming.runtimeconfig.json
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\bin\Debug\net8.0\StructurePrograming.dll
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\bin\Debug\net8.0\StructurePrograming.pdb
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\StructurePrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\StructurePrograming.AssemblyInfoInputs.cache
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\StructurePrograming.AssemblyInfo.cs
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\StructurePrograming.csproj.CoreCompileInputs.cache
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\StructurePrograming.dll
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\refint\StructurePrograming.dll
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\StructurePrograming.pdb
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\StructurePrograming.genruntimeconfig.cache
+C:\Users\Vadoslar\source\repos\CleanArquitecture\StructurePrograming\obj\Debug\net8.0\ref\StructurePrograming.dll
